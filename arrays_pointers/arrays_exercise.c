@@ -2,6 +2,8 @@
 
 #define ROWS 3
 #define COLS 5
+#define SEE 3
+
 
 void store(double (*)[COLS], int);
 void print_array(double (*)[COLS], int);
