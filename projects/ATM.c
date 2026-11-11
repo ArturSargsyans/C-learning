@@ -51,7 +51,6 @@ int display_menu(void)
     int option;
     printf("\n====== ATM SYSTEM =======\n\n1.Check Balance\n2.Deposit\n3.Withdraw\n4.Transaction history\n5.Exit\n\n Choose an option\t");
     scanf("%d", &option);
-    return option;
 }
 
 void check_balance(int *p_to_balance)
