@@ -1,0 +1,8 @@
+FILE ANALYSIS REPORT
+------------------
+File name: textfile.txt
+File size: 33
+Total characters: 33
+Alphabetic characters: 19
+Digits: 11
+New line characters: 3
