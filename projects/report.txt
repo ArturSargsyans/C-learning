@@ -1,0 +1,20 @@
+1. General information
+
+- Overall 18 measurements took place
+- 5 Temperature measurements 5 Voltage measurements 8 Light measurements
+
+2.Temperature statistics
+-Sum 205.000000
+-Average 41.000000
+-Minimum 30.000000
+-Maximum 60.000000
+3.Voltage statistics
+-Sum 26.799999
+-Average 5.360000
+-Minimum 3.300000
+-Maximum 7.000000
+4.Light intensity statistics
+-Sum 19.500000
+-Average 2.437500
+-Minimum 1.200000
+-Maximum 4.000000
