@@ -24,3 +24,11 @@ char * s_gets(char * st, int n)
     }
     return ret_val;
 }
+
+void input_validate(void)
+{
+    int ch;
+    while((ch = getchar()) != '\n' && ch != EOF)
+        ;
+    puts("Invalid input, enter proper values");
+}

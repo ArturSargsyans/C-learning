@@ -30,5 +30,9 @@ typedef struct {
 
 void add_device(DEVICE [], int *);
 void display_devices(DEVICE [], int);
+void add_ID(DEVICE * );
+void add_Name(DEVICE *);
+void set_status(DEVICE * , DEV_STATUS);
+void configure(DEVICE * pdev);
 
 #endif
